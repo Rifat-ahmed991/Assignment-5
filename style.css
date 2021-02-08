@@ -17,3 +17,7 @@
 #foodList img{
     width: 200px;
 }
+.btn{
+    border-radius: 1.5rem;
+    padding: 9px 20px;
+}
